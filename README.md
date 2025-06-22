@@ -1,1 +1,1 @@
-A simple front-end clone of Amazon website built using HTML and CSS. This project replicates the layout, navigation bar, product grid, and footer of Amazon's homepage for practice purposes. It is fully responsive and designed to improve ront-end development skills.
+A simple front-end clone of Amazon website built using HTML and CSS. 
